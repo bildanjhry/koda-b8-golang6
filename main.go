@@ -60,7 +60,7 @@ func main() {
 	}
 	fmt.Printf("========================\n\n")
 	for _, val := range orderItems {
-		fmt.Printf("* Start cookin' %s will complete in %d Seconds.. \n", val.order, val.duration)
+		fmt.Printf("* cookin' %s will takes %d Seconds \n", val.order, val.duration)
 	}
 
 	for x, val := range orderItems {
