@@ -7,4 +7,4 @@ Program ini mengimplementasikan concurrency, package ```sync.Mutex``` dan menggu
 
 
 ### Preview demo:
-![alt text](assets/demo.gif)
+![alt text](/assets/demo.gif)
